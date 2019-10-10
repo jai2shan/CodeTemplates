@@ -4,6 +4,12 @@ Created on Thu Oct 10 12:13:52 2019
 
 @author: jayasans4085
 """
+## https://github.com/marcotcr/lime/issues/166
+## https://github.com/marcotcr/lime/issues/175
+## https://github.com/marcotcr/lime/issues/73
+
+## https://www.guru99.com/scikit-learn-tutorial.html
+
 import sklearn
 import sklearn.datasets
 import sklearn.ensemble
